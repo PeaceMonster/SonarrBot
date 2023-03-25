@@ -1,0 +1,23 @@
+{
+  "name": "sonarrbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src.js",
+  "scripts": {
+    "test": "node src.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeaceMonster/SonarrBot.git"
+  },
+  "author": "PeaceMonster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeaceMonster/SonarrBot/issues"
+  },
+  "homepage": "https://github.com/PeaceMonster/SonarrBot#readme",
+  "dependencies": {
+    "matrix-js-sdk": "^23.5.0"
+  },
+  "type" :"module"
+}
