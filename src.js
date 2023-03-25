@@ -1,6 +1,8 @@
 import * as sdk from "matrix-js-sdk";
 import * as fs from "fs";
 
+
+
 let file = fs.readFileSync("login.info")
 let loginData = JSON.parse(file);
 

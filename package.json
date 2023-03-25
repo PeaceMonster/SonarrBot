@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/PeaceMonster/SonarrBot#readme",
   "dependencies": {
-    "matrix-js-sdk": "^23.5.0"
+    "matrix-js-sdk": "^23.5.0",
+    "sonarr-api": "^0.2.0",
+    "sonarr-bridge": "1.0.0"
   },
-  "type" :"module"
+  "type": "module"
 }
