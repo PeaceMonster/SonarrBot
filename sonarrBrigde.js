@@ -122,6 +122,6 @@ async function searchSeriesLimited(sonarr, search, amount) {
 }
 
 
-export { searchSeriesLimited, lookUpSeries, getAllSeriesId, getSeries, getSonarr }
+export { searchSeriesLimited, lookUpSeries, getAllSeriesId, getSeries, getSonarr, SeriesProxy }
 
 
